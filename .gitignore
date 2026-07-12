@@ -1,0 +1,25 @@
+# Logs
+logs/
+*.log
+
+# Bad proxies
+bad_proxies.txt
+
+# Config
+config.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Other
+*.swp
+*.swo
+*~
